@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "favorites" ALTER COLUMN "title" DROP NOT NULL,
+ALTER COLUMN "url" DROP NOT NULL;
